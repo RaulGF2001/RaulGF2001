@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Raúl García Ferreiro
 
-<!--
-**RaulGF2001/RaulGF2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática  
+💻 Interesado en bases de datos, sistemas de información y arquitectura de software.  
+📍 A Coruña, España
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de interés
+- Backend y APIs REST
+- Sistemas concurrentes y distribuidos
+- Arquitectura de software
+- Bases de datos y persistencia
+
+---
+
+## 🛠️ Tecnologías
+- **Lenguajes:** Java, Python, C, JavaScript
+- **Backend:** Spring Boot, APIs REST
+- **Frontend:** Vue.js
+- **Bases de datos:** PostgreSQL, Oracle
+- **Otros:** Git, Docker, Maven, REST, BPMN, Postman
+
+---
+
+## 📂 Proyectos
+Actualmente organizando y documentando proyectos académicos y personales.  
+Próximamente disponibles en este perfil.
+
+---
+
+## 📫 Contacto
+- [LinkedIn: (https://www.linkedin.com/in/ra%C3%BAl-garcia-ferreiro-83a2042b3/)]
+- Email: raulgarciaferreiro@gmail.com
+
