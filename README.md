@@ -1,12 +1,12 @@
-# 👋 Hola, soy Raúl García Ferreiro
+# Hola, soy Raúl García Ferreiro
 
-🎓 Estudiante de Ingeniería Informática  
-💻 Interesado en bases de datos, sistemas de información y arquitectura de software.  
-📍 A Coruña, España
+ Soy: Estudiante de Ingeniería Informática  
+ Sobre mi: Interesado en bases de datos, sistemas de información y arquitectura de software.  
+ De: A Coruña, España
 
 ---
 
-## 🧠 Áreas de interés
+##  Áreas de interés
 - Backend y APIs REST
 - Sistemas concurrentes y distribuidos
 - Arquitectura de software
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 - **Lenguajes:** Java, Python, C, JavaScript
 - **Backend:** Spring Boot, APIs REST
 - **Frontend:** Vue.js
@@ -23,13 +23,13 @@
 
 ---
 
-## 📂 Proyectos
-Actualmente organizando y documentando proyectos académicos y personales.  
+##  Proyectos
+Actualmente estoy organizando y documentando proyectos académicos y personales.  
 Próximamente disponibles en este perfil.
 
 ---
 
-## 📫 Contacto
-- [LinkedIn: (https://www.linkedin.com/in/ra%C3%BAl-garcia-ferreiro-83a2042b3/)]
+##  Contacto
+- [LinkedIn: https://www.linkedin.com/in/ra%C3%BAl-garcia-ferreiro-83a2042b3/]
 - Email: raulgarciaferreiro@gmail.com
 
